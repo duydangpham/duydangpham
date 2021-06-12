@@ -1,4 +1,5 @@
 Check out my personal website: https://duydangpham.github.io/
+<hr>
 
 I am Senior Lecturer of Digital Marketing in the <a href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-business-and-management" target="\_blank">School of Business &amp; Management</a>, RMIT University (Saigon South Campus, Vietnam). 
 
